@@ -21,12 +21,16 @@ category.
 ### Local Setup Instructions
 1. Clone the repository:
     ```
+    git clone https://github.com/anshpayal/Dashboard.git
+    cd Dashboard
     ```
 
 2. Install dependencies:
     ```
+    npm install
     ```
 
 3. Start the development server:
     ```
+    npm start
     ```
